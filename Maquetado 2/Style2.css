@@ -1,0 +1,90 @@
+.H{
+    position: relative;
+    background-color: blue;
+    border: 3px solid black;
+    width: auto;
+    padding: 250px;
+}
+
+.Na{
+    position: relative;
+    background-color: green;
+    border: 3px solid black;
+    width: auto;
+    padding: 50px;
+    text-align: center;
+    font-size: 20px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.Me{
+    position: relative;
+    background-color: gray;
+    border: 3px solid black;
+    width: auto;
+    padding: 400px;
+}
+
+
+.Fo{
+    position: relative;
+    background-color: yellow;
+    border: 3px solid black;
+    width: auto;
+    padding: 50px;
+    text-align: center;
+    font-size: 22px;
+    font-family: Arial black;
+}
+
+#Ar{
+    position: absolute;
+    top: 30px;
+    right: 320px;
+    width: 450px;
+    padding: 350px;
+    border: 2px solid white;
+    text-align: center;
+    font-size: 22px;
+    font-family: Arial black;
+    background-color: bisque;
+}
+
+#As{
+    position: absolute;
+    top: 30px;
+    right: 20px;
+    width: 60px; 
+    padding: 350px 110px;
+    border: 2px solid white;
+    text-align: center;
+    font-size: 22px; 
+    font-family: Arial black;
+    background-color: bisque;
+}
+
+#Ba{
+    position: absolute;
+    top: 10px; 
+    left: 15px;
+    width: 500px;
+    padding:220px ;
+    border: 2px solid white;
+    text-align: center;
+    font-size: 22px; 
+    font-family: Arial black;
+    background-color: bisque;
+}
+
+#Lo{
+    position: absolute;
+    top: 10px; 
+    right: 10px;
+    width: 285px;
+    padding: 220px 110px;
+    border: 2px solid white;
+    text-align: center;
+    font-size: 22px; 
+    font-family: Arial black;
+    background-color: bisque;
+}

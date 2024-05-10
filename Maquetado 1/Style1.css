@@ -1,0 +1,194 @@
+.M{
+    position: relative;
+    border: 5px solid black;
+    background-color: green;
+    width: auto;
+    padding: 100px;
+}
+
+.F{
+    position: relative;
+    background-color: yellow;
+    width: auto;
+    padding: 50px;
+    border: 5px solid black;
+    text-align: center;
+}
+
+.He{
+    position: relative;
+    border: 5px solid black;
+    background-color: blue;
+    width: auto;
+    padding: 300px;
+}
+
+.Ma{
+    position: relative;
+    border: 5px solid black;
+    background-color: grey;
+    width: auto;
+    padding: 500px;
+}
+
+.J{
+    position: absolute;
+    top: 8px;
+    left: 10px;
+    background-color: aqua;
+    border:2px solid black ;
+    width: 50px;
+    padding: 75px 110px;
+    text-align: center;
+    font-size: 22px;
+    font-family: Arial black ;
+    background-color: bisque;
+}
+
+.A{
+    position: absolute;
+    top: 8px;
+    right: 910px;
+    background-color: aqua;
+    border:2px solid black ;
+    width: 50px;
+    padding: 75px 110px;
+    text-align: center;
+    font-size: 22px;
+    font-family: Arial black ;
+    background-color: bisque;
+}
+
+.B{
+    position: absolute;
+    top: 8px;
+    right: 610px;
+    background-color: aqua;
+    border:2px solid black ;
+    width: 50px;
+    padding: 75px 110px;
+    text-align: center;
+    font-size: 22px;
+    font-family: Arial black ;
+    background-color: bisque;
+}
+
+.C{
+    position: absolute;
+    top: 8px;
+    right: 310px;
+    background-color: aqua;
+    border:2px solid black ;
+    width: 50px;
+    padding: 75px 110px;
+    text-align: center;
+    font-size: 22px;
+    font-family: Arial black ;
+    background-color: bisque;
+}
+
+.D{
+    position: absolute;
+    top: 8px;
+    right: 10px;
+    background-color: aqua;
+    border:2px solid black ;
+    width: 50px;
+    padding: 75px 110px;
+    text-align: center;
+    font-size: 22px;
+    font-family: Arial black ;
+    background-color: bisque;
+}
+
+.As{
+    position: absolute;
+    top: 25px;
+    left: 10px;
+    border: 2px solid white;
+    width: 200px;
+    padding: 460px 80px;
+    text-align: center;
+    font-size: 22px;
+    font-family: Arial black ;
+    background-color: bisque;
+  
+}
+
+#Ar{
+    position: absolute;
+    top: 25px;
+    right: 390px;
+    border: 2px solid white;
+    width: 500px;
+    padding: 460px 105px;
+    text-align: center;
+    font-size: 22px;
+    font-family: Arial black ;
+    background-color: bisque;
+}
+
+.At{
+    position: absolute;
+    top: 25px;
+    right: 10px;
+    border: 2px solid white;
+    width: 200px;
+    padding: 460px 80px;
+    text-align: center;
+    font-size: 22px;
+    font-family: Arial black ;
+    background-color: bisque;
+}
+
+#Ban{
+    position: absolute;
+    top: 10px;
+    left: 10px;
+    border: 2px solid white;
+    width: 800px;
+    padding: 270px 80px;
+    text-align: center;
+    font-size: 22px;
+    font-family: Arial black ;
+    background-color: bisque;
+}
+
+#L{
+    position: absolute;
+    top: 10px;
+    right: 10px;
+    border: 2px solid white;
+    width: 320px;
+    padding: 60px 80px;
+    text-align: center;
+    font-size: 22px;
+    font-family: Arial black ;
+    background-color: bisque;
+}
+
+#Lo{
+    position: absolute;
+    top: 220px;
+    right: 10px;
+    border: 2px solid white;
+    width: 320px;
+    padding: 60px 80px;
+    text-align: center;
+    font-size: 22px;
+    font-family: Arial black ;
+    background-color: bisque;
+}
+
+#for{
+    position: absolute;
+    top: 430px;
+    right: 10px;
+    border: 2px solid white;
+    width: 320px;
+    padding: 60px 80px;
+    text-align: center;
+    font-size: 22px;
+    font-family: Arial black ;
+    background-color: bisque;
+}
